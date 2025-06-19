@@ -1,11 +1,11 @@
 const CACHE_NAME = '3lloush_Web_learn';
 const urlsToCache = [
   '/',
-  '/index2.html',
+  '/index.html',
   '/manifest2.json',
-					'/html_tags_full.json',
-					'/css_properties_full.json',
-					'/js_features_full.json'
+'/html.json',
+'/css.json',
+'/js.json'
 ];
 
 self.addEventListener('install', event => {
