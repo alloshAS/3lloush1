@@ -1,7 +1,7 @@
 {
   "name": "3lloush_Web_learn",
   "short_name": "easy learn",
-  "start_url": ".",
+  "start_url": "/.",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2980b9",
