@@ -1,4 +1,4 @@
-const CACHE_NAME = '3lloush_Web_learn';
+const CACHE_NAME = 'easy learn';
 const urlsToCache = [
   '/',
   '/index.html',
