@@ -1,0 +1,257 @@
+[
+  [
+    "var",
+    "تعريف متغير (نطاق دالة)",
+    "var x = 5;"
+  ],
+  [
+    "let",
+    "تعريف متغير (نطاق كتلة)",
+    "let x = 10;"
+  ],
+  [
+    "const",
+    "تعريف متغير ثابت",
+    "const pi = 3.14;"
+  ],
+  [
+    "function",
+    "تعريف دالة",
+    "function greet(name) { return 'أهلاً ' + name; }"
+  ],
+  [
+    "=> (Arrow Function)",
+    "تعريف دالة بسهم",
+    "const sum = (a, b) => a + b;"
+  ],
+  [
+    "if/else",
+    "شرط",
+    "if (x > 5) { ... } else { ... }"
+  ],
+  [
+    "switch",
+    "تعدد حالات",
+    "switch(value) { case 1: ... break; }"
+  ],
+  [
+    "for",
+    "حلقة تكرار",
+    "for (let i = 0; i < 5; i++) { ... }"
+  ],
+  [
+    "while",
+    "حلقة أثناء",
+    "while (x < 10) { x++; }"
+  ],
+  [
+    "do/while",
+    "تنفيذ قبل التحقق",
+    "do { x++; } while (x < 10);"
+  ],
+  [
+    "try/catch",
+    "معالجة الأخطاء",
+    "try { ... } catch (e) { console.error(e); }"
+  ],
+  [
+    "throw",
+    "رمي خطأ مخصص",
+    "throw new Error('خطأ!');"
+  ],
+  [
+    "class",
+    "تعريف صنف كائني",
+    "class Person { constructor(name) { this.name = name; } }"
+  ],
+  [
+    "constructor",
+    "دالة مُنشئ داخل class",
+    "constructor(x) { this.x = x; }"
+  ],
+  [
+    "extends",
+    "وراثة من صنف آخر",
+    "class Admin extends User { ... }"
+  ],
+  [
+    "super",
+    "استدعاء صنف الأب",
+    "super(name);"
+  ],
+  [
+    "this",
+    "يشير للكائن الحالي",
+    "this.name = 'Ali';"
+  ],
+  [
+    "new",
+    "إنشاء كائن جديد",
+    "let p = new Person();"
+  ],
+  [
+    "setTimeout",
+    "تشغيل بعد زمن",
+    "setTimeout(() => console.log('مرحباً'), 1000);"
+  ],
+  [
+    "setInterval",
+    "تشغيل متكرر",
+    "setInterval(() => console.log('كل ثانية'), 1000);"
+  ],
+  [
+    "clearTimeout",
+    "إلغاء مؤقت",
+    "clearTimeout(timer);"
+  ],
+  [
+    "clearInterval",
+    "إلغاء مكرر",
+    "clearInterval(loop);"
+  ],
+  [
+    "Array",
+    "مصنوع مسبقًا للمصفوفات",
+    "let arr = [1, 2, 3];"
+  ],
+  [
+    "Object",
+    "تعريف كائن",
+    "let user = {name: 'Ali'};"
+  ],
+  [
+    "JSON",
+    "تحويل كائن إلى نص والعكس",
+    "JSON.stringify(obj);"
+  ],
+  [
+    "Math",
+    "دوال رياضية",
+    "Math.random(), Math.floor(5.6);"
+  ],
+  [
+    "Date",
+    "كائن تاريخ ووقت",
+    "let now = new Date();"
+  ],
+  [
+    "RegExp",
+    "تعبيرات منتظمة",
+    "/[a-z]+/gi"
+  ],
+  [
+    "map",
+    "تكرار وتحويل عناصر المصفوفة",
+    "[1,2,3].map(x => x*2);"
+  ],
+  [
+    "filter",
+    "تصفية المصفوفة",
+    "[1,2,3].filter(x => x > 1);"
+  ],
+  [
+    "reduce",
+    "اختزال المصفوفة لقيمة",
+    "[1,2,3].reduce((a,b)=>a+b);"
+  ],
+  [
+    "includes",
+    "التحقق من وجود قيمة",
+    "[1,2,3].includes(2);"
+  ],
+  [
+    "spread (...)",
+    "نشر عناصر مصفوفة أو كائن",
+    "let newArr = [...arr];"
+  ],
+  [
+    "rest (...)",
+    "تجميع المتغيرات الزائدة",
+    "function f(...args) { }"
+  ],
+  [
+    "async/await",
+    "تعامل مع وعود async",
+    "async function f() { await fetch(url); }"
+  ],
+  [
+    "Promise",
+    "وعد غير متزامن",
+    "new Promise((res, rej) => {...});"
+  ],
+  [
+    "fetch",
+    "طلب بيانات من API",
+    "fetch('/api').then(...);"
+  ],
+  [
+    "localStorage",
+    "تخزين دائم في المتصفح",
+    "localStorage.setItem('x', '1');"
+  ],
+  [
+    "sessionStorage",
+    "تخزين للجلسة الحالية",
+    "sessionStorage.setItem('y', '2');"
+  ],
+  [
+    "document",
+    "التعامل مع عناصر الصفحة",
+    "document.getElementById('id');"
+  ],
+  [
+    "querySelector",
+    "اختيار عنصر من الصفحة",
+    "document.querySelector('.class');"
+  ],
+  [
+    "addEventListener",
+    "ربط حدث لعنصر",
+    "btn.addEventListener('click', doSomething);"
+  ],
+  [
+    "classList",
+    "التعامل مع الكلاسات",
+    "el.classList.add('active');"
+  ],
+  [
+    "innerHTML",
+    "تغيير محتوى العنصر",
+    "div.innerHTML = '<p>مرحبًا</p>';"
+  ],
+  [
+    "textContent",
+    "نص العنصر بدون HTML",
+    "div.textContent = 'نص فقط';"
+  ],
+  [
+    "setAttribute",
+    "تعيين سمة لعنصر",
+    "el.setAttribute('type', 'text');"
+  ],
+  [
+    "Proxy",
+    "اعتراض عمليات على الكائن",
+    "new Proxy(obj, handler);"
+  ],
+  [
+    "Reflect",
+    "واجهة لعكس الكائنات",
+    "Reflect.get(obj, 'key');"
+  ],
+  [
+    "Symbol",
+    "إنشاء معرف فريد",
+    "let sym = Symbol('desc');"
+  ],
+  [
+    "BigInt",
+    "تعامل مع أعداد ضخمة",
+    "let big = 12345678901234567890n;"
+  ],
+  [
+    "Intl",
+    "دعم الترجمة والتاريخ والعملات",
+    "new Intl.NumberFormat('ar-EG').format(123456);"
+  ]
+]

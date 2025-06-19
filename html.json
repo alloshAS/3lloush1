@@ -1,0 +1,517 @@
+[
+  [
+    "a",
+    "ينشئ رابط تشعبي",
+    "<a href='https://example.com'>رابط</a>"
+  ],
+  [
+    "abbr",
+    "اختصار أو شرح إضافي",
+    "<abbr title='HyperText Markup Language'>HTML</abbr>"
+  ],
+  [
+    "address",
+    "معلومات الاتصال",
+    "<address>البريد الإلكتروني: example@example.com</address>"
+  ],
+  [
+    "area",
+    "منطقة نشطة داخل خريطة صور",
+    "<area shape='rect' coords='34,44,270,350' href='sun.htm'>"
+  ],
+  [
+    "article",
+    "محتوى مستقل",
+    "<article><h2>عنوان</h2><p>نص</p></article>"
+  ],
+  [
+    "aside",
+    "محتوى جانبي",
+    "<aside>روابط جانبية</aside>"
+  ],
+  [
+    "audio",
+    "عنصر صوتي",
+    "<audio controls src='file.mp3'></audio>"
+  ],
+  [
+    "b",
+    "نص عريض بدون دلالة",
+    "<b>غامق</b>"
+  ],
+  [
+    "base",
+    "تحديد عنوان URL الأساسي",
+    "<base href='https://example.com/' />"
+  ],
+  [
+    "bdi",
+    "عزل اتجاه النص",
+    "<bdi>اسم عربي</bdi>"
+  ],
+  [
+    "bdo",
+    "تحديد اتجاه النص",
+    "<bdo dir='rtl'>نص</bdo>"
+  ],
+  [
+    "blockquote",
+    "اقتباس طويل",
+    "<blockquote cite='https://example.com'>اقتباس</blockquote>"
+  ],
+  [
+    "body",
+    "محتوى الصفحة",
+    "<body>...</body>"
+  ],
+  [
+    "br",
+    "فاصل سطر",
+    "<br>"
+  ],
+  [
+    "button",
+    "زر تفاعلي",
+    "<button>اضغط هنا</button>"
+  ],
+  [
+    "canvas",
+    "رسم رسومات ديناميكية",
+    "<canvas id='myCanvas'></canvas>"
+  ],
+  [
+    "caption",
+    "عنوان جدول",
+    "<caption>عنوان الجدول</caption>"
+  ],
+  [
+    "cite",
+    "اقتباس مصدر",
+    "<cite>اسم كتاب</cite>"
+  ],
+  [
+    "code",
+    "عرض كود برمجي",
+    "<code>let x = 5;</code>"
+  ],
+  [
+    "col",
+    "تحديد خصائص أعمدة جدول",
+    "<col style='background-color:yellow'>"
+  ],
+  [
+    "colgroup",
+    "تجميع أعمدة في جدول",
+    "<colgroup><col></colgroup>"
+  ],
+  [
+    "data",
+    "تحديد قيمة يمكن قراءتها آليًا",
+    "<data value='123'>كمية</data>"
+  ],
+  [
+    "datalist",
+    "قائمة بيانات للمدخلات",
+    "<datalist><option value='اختيار'></datalist>"
+  ],
+  [
+    "dd",
+    "تعريف وصف",
+    "<dd>شرح المصطلح</dd>"
+  ],
+  [
+    "del",
+    "نص محذوف",
+    "<del>تم الحذف</del>"
+  ],
+  [
+    "details",
+    "تفاصيل يمكن توسيعها",
+    "<details><summary>المزيد</summary>نص إضافي</details>"
+  ],
+  [
+    "dfn",
+    "تحديد مصطلح",
+    "<dfn>مصطلح</dfn>"
+  ],
+  [
+    "dialog",
+    "مربع حوار",
+    "<dialog open>نص</dialog>"
+  ],
+  [
+    "div",
+    "عنصر عام حاوي",
+    "<div>محتوى</div>"
+  ],
+  [
+    "dl",
+    "قائمة تعريفية",
+    "<dl><dt>مصطلح</dt><dd>تعريف</dd></dl>"
+  ],
+  [
+    "dt",
+    "عنصر مصطلح",
+    "<dt>HTML</dt>"
+  ],
+  [
+    "em",
+    "نص مائل ذو تأكيد",
+    "<em>هام</em>"
+  ],
+  [
+    "embed",
+    "تضمين مصدر خارجي",
+    "<embed src='file.swf'>"
+  ],
+  [
+    "fieldset",
+    "مجموعة من المدخلات",
+    "<fieldset><legend>معلومات</legend></fieldset>"
+  ],
+  [
+    "figcaption",
+    "شرح صورة",
+    "<figcaption>وصف الصورة</figcaption>"
+  ],
+  [
+    "figure",
+    "عنصر مرئي مستقل",
+    "<figure><img src='img.jpg'><figcaption>وصف</figcaption></figure>"
+  ],
+  [
+    "footer",
+    "تذييل المستند أو القسم",
+    "<footer>© حقوق النشر</footer>"
+  ],
+  [
+    "form",
+    "نموذج إرسال بيانات",
+    "<form action='/submit'></form>"
+  ],
+  [
+    "h1",
+    "عنوان رئيسي",
+    "<h1>عنوان</h1>"
+  ],
+  [
+    "head",
+    "رأس الوثيقة (metadata)",
+    "<head>...</head>"
+  ],
+  [
+    "header",
+    "رأس الصفحة أو القسم",
+    "<header>مقدمة</header>"
+  ],
+  [
+    "hr",
+    "خط أفقي فاصل",
+    "<hr>"
+  ],
+  [
+    "html",
+    "عنصر الجذر",
+    "<html lang='ar'>...</html>"
+  ],
+  [
+    "i",
+    "نص مائل",
+    "<i>Italic</i>"
+  ],
+  [
+    "iframe",
+    "إطار مضمّن",
+    "<iframe src='page.html'></iframe>"
+  ],
+  [
+    "img",
+    "صورة",
+    "<img src='img.jpg' alt='صورة'>"
+  ],
+  [
+    "input",
+    "عنصر إدخال",
+    "<input type='text'>"
+  ],
+  [
+    "ins",
+    "نص مضاف",
+    "<ins>تمت إضافته</ins>"
+  ],
+  [
+    "kbd",
+    "إدخال من لوحة المفاتيح",
+    "<kbd>Ctrl + C</kbd>"
+  ],
+  [
+    "label",
+    "تسمية لعنصر إدخال",
+    "<label for='name'>الاسم</label>"
+  ],
+  [
+    "legend",
+    "عنوان حقل",
+    "<legend>معلومات</legend>"
+  ],
+  [
+    "li",
+    "عنصر قائمة",
+    "<li>عنصر</li>"
+  ],
+  [
+    "link",
+    "ربط ملف خارجي",
+    "<link rel='stylesheet' href='style.css'>"
+  ],
+  [
+    "main",
+    "المحتوى الرئيسي",
+    "<main>محتوى أساسي</main>"
+  ],
+  [
+    "map",
+    "خريطة لصورة",
+    "<map name='mapname'></map>"
+  ],
+  [
+    "mark",
+    "تمييز نص",
+    "<mark>هام</mark>"
+  ],
+  [
+    "meta",
+    "معلومات وصفية",
+    "<meta charset='UTF-8'>"
+  ],
+  [
+    "meter",
+    "مؤشر قياس",
+    "<meter value='0.6'>60%</meter>"
+  ],
+  [
+    "nav",
+    "روابط تنقل",
+    "<nav><a href='#'>رئيسية</a></nav>"
+  ],
+  [
+    "noscript",
+    "محتوى يظهر عند عدم دعم JS",
+    "<noscript>يرجى تفعيل JavaScript</noscript>"
+  ],
+  [
+    "object",
+    "تضمين كائن خارجي",
+    "<object data='file.pdf'></object>"
+  ],
+  [
+    "ol",
+    "قائمة مرتبة",
+    "<ol><li>واحد</li></ol>"
+  ],
+  [
+    "optgroup",
+    "مجموعة خيارات",
+    "<optgroup label='أ' ><option>ألف</option></optgroup>"
+  ],
+  [
+    "option",
+    "عنصر خيار",
+    "<option>خيار</option>"
+  ],
+  [
+    "output",
+    "نتيجة عملية",
+    "<output>15</output>"
+  ],
+  [
+    "p",
+    "فقرة نصية",
+    "<p>نص</p>"
+  ],
+  [
+    "picture",
+    "عنصر صورة تكيّفي",
+    "<picture><source srcset='img.webp'><img src='img.jpg'></picture>"
+  ],
+  [
+    "pre",
+    "نص منسق مسبقًا",
+    "<pre>   كود أو شعر</pre>"
+  ],
+  [
+    "progress",
+    "شريط تقدم",
+    "<progress value='70' max='100'>70%</progress>"
+  ],
+  [
+    "q",
+    "اقتباس قصير",
+    "<q>نص مقتبس</q>"
+  ],
+  [
+    "rp",
+    "نص بديل لروبي",
+    "<rp>(شرح)</rp>"
+  ],
+  [
+    "rt",
+    "نص شرح لروبي",
+    "<rt>شرح</rt>"
+  ],
+  [
+    "ruby",
+    "نص روبي (ياباني)",
+    "<ruby>語<rt>ご</rt></ruby>"
+  ],
+  [
+    "s",
+    "نص مشطوب",
+    "<s>غير صالح</s>"
+  ],
+  [
+    "samp",
+    "ناتج برمجي",
+    "<samp>خطأ في النظام</samp>"
+  ],
+  [
+    "script",
+    "شيفرة JavaScript",
+    "<script>console.log('مرحبًا')</script>"
+  ],
+  [
+    "section",
+    "قسم من الصفحة",
+    "<section><h2>عنوان</h2></section>"
+  ],
+  [
+    "select",
+    "قائمة منسدلة",
+    "<select><option>خيار</option></select>"
+  ],
+  [
+    "small",
+    "نص صغير",
+    "<small>ملاحظة</small>"
+  ],
+  [
+    "source",
+    "مصدر وسائط",
+    "<source src='video.mp4' type='video/mp4'>"
+  ],
+  [
+    "strong",
+    "تأكيد نص",
+    "<strong>مهم!</strong>"
+  ],
+  [
+    "style",
+    "أنماط CSS داخلية",
+    "<style>p { color: red; }</style>"
+  ],
+  [
+    "sub",
+    "نص سفلي",
+    "<sub>2</sub>"
+  ],
+  [
+    "summary",
+    "عنوان تفصيل",
+    "<summary>مزيد من التفاصيل</summary>"
+  ],
+  [
+    "sup",
+    "نص علوي",
+    "<sup>2</sup>"
+  ],
+  [
+    "svg",
+    "رسم شعاعي",
+    "<svg><circle cx='50' cy='50' r='40'/></svg>"
+  ],
+  [
+    "table",
+    "جدول بيانات",
+    "<table><tr><td>نص</td></tr></table>"
+  ],
+  [
+    "tbody",
+    "جسم الجدول",
+    "<tbody>...</tbody>"
+  ],
+  [
+    "td",
+    "خلية بيانات",
+    "<td>بيانات</td>"
+  ],
+  [
+    "template",
+    "قالب غير معروض",
+    "<template><p>نموذج</p></template>"
+  ],
+  [
+    "textarea",
+    "حقل إدخال نصي كبير",
+    "<textarea>نص</textarea>"
+  ],
+  [
+    "tfoot",
+    "تذييل جدول",
+    "<tfoot>...</tfoot>"
+  ],
+  [
+    "th",
+    "خلية رأس الجدول",
+    "<th>عنوان</th>"
+  ],
+  [
+    "thead",
+    "رأس جدول",
+    "<thead>...</thead>"
+  ],
+  [
+    "time",
+    "وقت أو تاريخ",
+    "<time datetime='2024-01-01'>1 يناير</time>"
+  ],
+  [
+    "title",
+    "عنوان الصفحة",
+    "<title>عنوان</title>"
+  ],
+  [
+    "tr",
+    "صف جدول",
+    "<tr>...</tr>"
+  ],
+  [
+    "track",
+    "ترجمة للفيديو",
+    "<track kind='subtitles' src='subs.vtt' srclang='ar'>"
+  ],
+  [
+    "u",
+    "نص تحته خط",
+    "<u>تحته خط</u>"
+  ],
+  [
+    "ul",
+    "قائمة غير مرتبة",
+    "<ul><li>عنصر</li></ul>"
+  ],
+  [
+    "var",
+    "متغير رياضي",
+    "<var>x</var>"
+  ],
+  [
+    "video",
+    "فيديو",
+    "<video controls src='vid.mp4'></video>"
+  ],
+  [
+    "wbr",
+    "كسر كلمة اختياري",
+    "كلمة<wbr>طويلة"
+  ]
+]

@@ -1,0 +1,282 @@
+[
+  [
+    "align-content",
+    "محاذاة المحتوى على المحور العمودي في Flex/Grid",
+    "align-content: center;"
+  ],
+  [
+    "align-items",
+    "محاذاة العناصر داخل Flexbox",
+    "align-items: flex-start;"
+  ],
+  [
+    "align-self",
+    "محاذاة عنصر معين ضمن Flexbox",
+    "align-self: center;"
+  ],
+  [
+    "all",
+    "تعيين أو إعادة تعيين كل الخصائص",
+    "all: unset;"
+  ],
+  [
+    "animation",
+    "تطبيق حركة",
+    "animation: slidein 3s ease-in-out;"
+  ],
+  [
+    "animation-delay",
+    "تأخير بدء الحركة",
+    "animation-delay: 2s;"
+  ],
+  [
+    "animation-direction",
+    "اتجاه الحركة",
+    "animation-direction: reverse;"
+  ],
+  [
+    "animation-duration",
+    "مدة الحركة",
+    "animation-duration: 1s;"
+  ],
+  [
+    "animation-fill-mode",
+    "سلوك العنصر بعد انتهاء الحركة",
+    "animation-fill-mode: forwards;"
+  ],
+  [
+    "animation-iteration-count",
+    "عدد مرات تكرار الحركة",
+    "animation-iteration-count: infinite;"
+  ],
+  [
+    "animation-name",
+    "اسم الحركة المعرفة",
+    "animation-name: fadeIn;"
+  ],
+  [
+    "animation-play-state",
+    "تشغيل أو إيقاف الحركة",
+    "animation-play-state: paused;"
+  ],
+  [
+    "animation-timing-function",
+    "منحنى توقيت الحركة",
+    "animation-timing-function: ease-in;"
+  ],
+  [
+    "aspect-ratio",
+    "نسبة الأبعاد (عرض:ارتفاع)",
+    "aspect-ratio: 16 / 9;"
+  ],
+  [
+    "backdrop-filter",
+    "تطبيق تأثير على الخلفية الخلفية",
+    "backdrop-filter: blur(5px);"
+  ],
+  [
+    "background",
+    "خاصية الخلفية الشاملة",
+    "background: #fff url('img.png') no-repeat;"
+  ],
+  [
+    "background-attachment",
+    "كيفية تمرير الخلفية",
+    "background-attachment: fixed;"
+  ],
+  [
+    "background-blend-mode",
+    "طريقة دمج الخلفية",
+    "background-blend-mode: multiply;"
+  ],
+  [
+    "background-clip",
+    "أين يتم رسم الخلفية",
+    "background-clip: padding-box;"
+  ],
+  [
+    "background-color",
+    "لون الخلفية",
+    "background-color: #f0f0f0;"
+  ],
+  [
+    "background-image",
+    "صورة الخلفية",
+    "background-image: url('bg.jpg');"
+  ],
+  [
+    "background-origin",
+    "أصل تموضع الخلفية",
+    "background-origin: border-box;"
+  ],
+  [
+    "background-position",
+    "موضع الخلفية",
+    "background-position: center;"
+  ],
+  [
+    "background-repeat",
+    "تكرار الخلفية",
+    "background-repeat: no-repeat;"
+  ],
+  [
+    "background-size",
+    "حجم الخلفية",
+    "background-size: cover;"
+  ],
+  [
+    "border",
+    "حد العنصر",
+    "border: 1px solid black;"
+  ],
+  [
+    "border-block",
+    "حدود المحور العمودي",
+    "border-block: 2px solid blue;"
+  ],
+  [
+    "border-bottom",
+    "الحد السفلي",
+    "border-bottom: 1px dashed red;"
+  ],
+  [
+    "border-color",
+    "لون الحدود",
+    "border-color: green;"
+  ],
+  [
+    "border-image",
+    "استخدام صورة كحد",
+    "border-image: url(border.png) 30 round;"
+  ],
+  [
+    "border-radius",
+    "تدوير الزوايا",
+    "border-radius: 10px;"
+  ],
+  [
+    "border-style",
+    "نوع الخط الحدودي",
+    "border-style: dotted;"
+  ],
+  [
+    "border-width",
+    "عرض الحد",
+    "border-width: 2px;"
+  ],
+  [
+    "bottom",
+    "المسافة من الأسفل",
+    "bottom: 10px;"
+  ],
+  [
+    "box-decoration-break",
+    "سلوك الخلفية عبر الأسطر",
+    "box-decoration-break: clone;"
+  ],
+  [
+    "box-shadow",
+    "ظل العنصر",
+    "box-shadow: 0 4px 8px rgba(0,0,0,0.3);"
+  ],
+  [
+    "box-sizing",
+    "طريقة حساب الأبعاد",
+    "box-sizing: border-box;"
+  ],
+  [
+    "break-after",
+    "التحكم بكسر الصفحة بعد العنصر",
+    "break-after: always;"
+  ],
+  [
+    "break-before",
+    "التحكم بكسر الصفحة قبل العنصر",
+    "break-before: auto;"
+  ],
+  [
+    "break-inside",
+    "منع كسر الصفحة داخل العنصر",
+    "break-inside: avoid;"
+  ],
+  [
+    "caption-side",
+    "موضع عنوان الجدول",
+    "caption-side: top;"
+  ],
+  [
+    "caret-color",
+    "لون مؤشر الكتابة",
+    "caret-color: red;"
+  ],
+  [
+    "clear",
+    "منع الالتفاف حول العنصر",
+    "clear: both;"
+  ],
+  [
+    "clip-path",
+    "تحديد شكل القص",
+    "clip-path: circle(50% at 50% 50%);"
+  ],
+  [
+    "color",
+    "لون النص",
+    "color: blue;"
+  ],
+  [
+    "column-count",
+    "عدد الأعمدة في التخطيط",
+    "column-count: 3;"
+  ],
+  [
+    "column-gap",
+    "المسافة بين الأعمدة",
+    "column-gap: 20px;"
+  ],
+  [
+    "columns",
+    "اختصار column-count و column-width",
+    "columns: 3 200px;"
+  ],
+  [
+    "contain",
+    "تحسين الأداء بالعزل",
+    "contain: layout style;"
+  ],
+  [
+    "content",
+    "محتوى عنصر ::before أو ::after",
+    "content: 'نص';"
+  ],
+  [
+    "counter-increment",
+    "زيادة العدادات",
+    "counter-increment: section;"
+  ],
+  [
+    "counter-reset",
+    "إعادة تعيين العدادات",
+    "counter-reset: section;"
+  ],
+  [
+    "cursor",
+    "شكل المؤشر عند المرور",
+    "cursor: pointer;"
+  ],
+  [
+    "direction",
+    "اتجاه النص",
+    "direction: rtl;"
+  ],
+  [
+    "display",
+    "نوع العرض",
+    "display: grid;"
+  ],
+  [
+    "empty-cells",
+    "إظهار الخلايا الفارغة",
+    "empty-cells: hide;"
+  ]
+]
