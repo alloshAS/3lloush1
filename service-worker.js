@@ -1,11 +1,11 @@
 const CACHE_NAME = 'easy learn';
 const urlsToCache = [
-  '/3lloush1',
-  '/index.html',
-  '/manifest2.json',
-'/html.json',
-'/css.json',
-'/js.json'
+  '/3lloush1/',
+  '/3lloush1/index.html',
+  '/3lloush1/manifest2.json',
+  '/3lloush1/html.json',
+	'/3lloush1/css.json',
+	'/3lloush1/js.json'
 ];
 
 self.addEventListener('install', event => {
