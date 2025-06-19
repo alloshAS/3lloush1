@@ -1,6 +1,6 @@
 const CACHE_NAME = 'easy learn';
 const urlsToCache = [
-  '/',
+  '/3lloush1',
   '/index.html',
   '/manifest2.json',
 '/html.json',
